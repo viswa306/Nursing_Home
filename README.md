@@ -10,8 +10,8 @@
 
 ## Data Source:
 * https://data.medicare.gov/data/nursing-home-compare?sort=alpha&tag=star%20ratings
-* https://data.medicare.gov/data/nursing-home-compare?sort=alpha&tag=star%20ratings
-* https://data.medicare.gov/data/nursing-home-compare?sort=alpha&tag=star%20ratings
+* https://www.health.pa.gov/topics/HealthStatistics/HealthFacilities/NursingHomeReports/Pages/nursing-home-reports.aspx
+* https://data.cms.gov/Special-Programs-Initiatives-COVID-19-Nursing-Home/COVID-19-Nursing-Home-Dataset/s2uc-8wxp/data
 * https://www.prb.org/which-us-states-are-the-oldest/
 
 ## Bash Installations required
